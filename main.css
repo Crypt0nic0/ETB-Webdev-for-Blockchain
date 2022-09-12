@@ -4,4 +4,8 @@
 
 #title{
     color: purple;
+    background-color: black;
+    padding: 20px;
+    margin-bottom: 20px;
+    float: left;
 }
